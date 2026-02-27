@@ -1,4 +1,4 @@
-## Hi there 👋
+## Lead contributor to pv-nitrides research project under sai-mat-group (248 commits).
 
 <!--
 **Jay-K28/Jay-K28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
