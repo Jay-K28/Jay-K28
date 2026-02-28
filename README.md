@@ -65,5 +65,5 @@ I believe in:
 
 ## 📫 Connect
 
-LinkedIn: linkedin.com/in/Jayant-kumar-05aa8b102
+LinkedIn: https://www.linkedin.com/in/jayant-kumar-05aa8b102/
 Email: jayantkumar281295@gmail.com
