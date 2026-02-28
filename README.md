@@ -1,16 +1,69 @@
-## Lead contributor to pv-nitrides research project under sai-mat-group (248 commits).
+# Hi, I'm Jayant Kumar 👋
 
-<!--
-**Jay-K28/Jay-K28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative ML Researcher | Data Scientist | M.Tech – Materials Engineering  
 
-Here are some ideas to get you started:
+I work at the intersection of **Machine Learning, Time-Series Modeling, and Systematic Research**.  
+My work focuses on designing robust machine learning systems for real-world decision-making across industrial engineering and financial markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Current Focus
+
+- Systematic Alpha Research
+- Time-Series Feature Engineering
+- Financial Machine Learning
+- Portfolio Construction & Risk-Aware Optimization
+
+---
+
+## 🛠 Core Skills
+
+**Languages:**  
+Python, SQL  
+
+**Machine Learning & Optimization:**  
+Supervised & Unsupervised Learning, Tree-Based Methods, Ensemble Modeling,  
+Regularization Techniques, Gradient-Based Optimization,  
+Hyperparameter Optimization, Cross-Validation & Model Robustness  
+
+**Quant & Finance:**  
+Factor Modeling, Signal Generation, Backtesting Logic, Performance Metrics (Sharpe, Drawdown, Alpha)  
+
+**Data Handling and Visualization:**  
+Pandas, NumPy, SciPy, sklearn, Plotly, Seaborn  
+
+---
+
+## 📌 Featured Projects
+
+### 📈 ML Alpha Portfolio Model
+End-to-end pipeline for:
+- Data ingestion
+- Feature engineering
+- Predictive modeling
+- Ablation analysis
+- Portfolio signal generation
+
+Focus on robustness and out-of-sample validation.
+
+---
+
+### 🔬 PV-Nitrides Research (Materials AI)
+Research project on identifying nitride semiconductors for photovoltaic applications using computational materials science and data-driven screening.
+
+---
+
+## 📊 Philosophy
+
+I believe in:
+- Reproducible research
+- Clean experimental structure
+- Statistical rigor over overfitting
+- Building systems, not just notebooks
+
+---
+
+## 📫 Connect
+
+LinkedIn: linkedin.com/in/Jayant-kumar-05aa8b102
+Email: jayantkumar281295@gmail.com
